@@ -1,0 +1,617 @@
+// bootstrap links 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+
+
+
+
+//header !!!!
+<header>
+    <div class="container-fluid bg-black pt-3">
+      <div class="row">
+        <div class="col">
+          <div class="container">
+            <div class="row">
+              <div class="col">
+                <div class="row">
+                  <div class="col-4">
+                    <img src="img/wheel-logo.png" class="wheel-logo" alt="">
+                  </div>
+                  <div class="col-8">
+                    <p class="company-name1">CAR<span class="company-name2">RE</span></p>
+                    <p class="company-name3">Biggest car repair service</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <p class="email">EMAIL</p>
+                <p class="company-email">companymail@sample.com</p>
+              </div>
+              <div class="col">
+                <p class="work-time">OPEN HOURS</p>
+                <p class="work-hour">Tues-Sun 9.00am - 7.00pm</p>
+              </div>
+              <div class="col">
+                <div class="row">
+                  <div class="col-3">
+                    <p class="phone-img"><img src="img/phone-number.png" alt=""></p>
+                  </div>
+                  <div class="col-9">
+                    <p class="call-now">
+                      Call Now 
+                    </p>
+                    <p class="number-phone">
+                      (732) 803-01 03
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="row">
+                  <div class="col-3">
+                    <a href="https://facebook.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                     <img src="img/facebook.png" alt=""> 
+                    </a>
+                  </div>
+                  <div class="col-3">
+                    <a href="https://twitter.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                     <img src="img/twitter.png" alt=""> 
+                    </a>
+                  </div>
+                  <div class="col-3">
+                    <a href="https://google.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                     <img src="img/googleplus.png" alt=""> 
+                    </a>
+                  </div>
+                  <div class="col-3">
+                    <a href="https://www.pinterest.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                     <img src="img/pinterest.png" alt=""> 
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row bg-red">
+              <div class="col-10">
+                <nav class="">
+                  <ul class="menu-list">
+                    <li class="menu">
+                      <a href="">Home</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">Pages</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">About Us</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">Service</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">Gallery</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">Testomonail</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">Blog</a>
+                    </li>
+                    <li class="menu">
+                      <a href="">Contact us</a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="col-2 get-info">
+                <img src="img/telegram_icon.png" class="telegram-icon" alt="">
+                <a href="" class="get-free-info ">Get Free Info</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+// Це Clients love us i our expert team
+<div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <div class="client-comment-title pt-5">
+            <p>Client’s love us</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="client-comment-text">
+            <p>Keeping a well-maintained vehicle is paramount to your safety. That is why our team of nearly 500 <br> professional technicians are ready to make your vehicle safe and</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="slider--teams" style="display: block; opacity: 1;">
+            <div class="slider--teams__team">
+              <ul id="list" class="cf" style="margin-left: 33%; width: 200%; transform: translateX(-50%);">
+                <li style="width: 16.6667%;">
+                  <figure class="">
+                    <div>
+                      <div></div>
+                    </div>
+                    <figcaption>
+                      <h2>Billie</h2>
+                      <p>Client</p>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li style="width: 16.6667%;">
+                  <figure class="">
+                    <div>
+                      <div></div>
+                    </div>
+                    <figcaption>
+                      <h2>Roger</h2>
+                      <p>Client</p>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li style="width: 16.6667%;">
+                  <figure class="">
+                    <div>
+                      <div></div>
+                    </div>
+                    <figcaption>
+                      <h2>Wendy</h2>
+                      <p>Client</p>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li style="width: 16.6667%;">
+                  <figure class="active">
+                    <div>
+                      <div></div>
+                    </div>
+                    <figcaption>
+                      <h2>Bill</h2>
+                      <p>Client</p>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li style="width: 16.6667%;">
+                  <figure class="">
+                    <div>
+                      <div></div> 
+                    </div>
+                    <figcaption>
+                      <h2>Lorraine</h2>
+                      <p>Client</p>
+                    </figcaption>
+                  </figure>
+                </li>
+                <li style="width: 16.6667%;">
+                  <figure class="">
+                    <div>
+                      <div></div> 
+                    </div>
+                    <figcaption>
+                      <h2>Wesley</h2>
+                      <p>Client</p>
+                    </figcaption>
+                  </figure>
+                </li> 
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="client-comment-info pt-5">
+            <p>
+              On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire,<br> that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through 
+              weakness of will, <br> which is the same 
+              as saying through shrinking from toil and pain.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="client-user-name pt-3 pb-5">
+            <p>smith cesaro</p>
+            <p class="user-medals">Gold user from 2 years</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="our-team-title pt-5">
+            <p>OUR EXPERT TEAM</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="our-team-text pt-3">
+            <p>Keeping a well-maintained vehicle is paramount to your safety. That is why our team of nearly 500 professional technicians are ready to make your vehicle safe and</p>
+          </div>
+        </div>
+      </div>
+      <div class="row pb-5">
+        <div class="col"></div>
+        <div class="col">
+          <img src="img/img250x260.png" alt="">
+          <div class="row">
+            <div class="col pt-3">
+              <p class="pt-3 mb-0 team-name">Benson Cesaro</p>
+              <p class="team-profesion mb-0">Detealing Expert</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+                <a href="https://facebook.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/facebook.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://twitter.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/twitter.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://google.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/googleplus.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://www.pinterest.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/pinterest.png" alt=""> 
+                </a>
+            </div>
+            <div class="col"></div>
+            <div class="col"></div>
+          </div>
+        </div>
+        <div class="col"></div>
+        <div class="col">
+          <img src="img/img250x260.png" alt="">
+          <div class="row">
+            <div class="col pt-3">
+              <p class="pt-3 mb-0 team-name">Alberto Del Rio</p>
+              <p class="team-profesion mb-0">Car Cleaner</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+                <a href="https://facebook.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/facebook.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://twitter.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/twitter.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://google.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/googleplus.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://www.pinterest.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/pinterest.png" alt=""> 
+                </a>
+            </div>
+            <div class="col"></div>
+            <div class="col"></div>
+          </div>
+          </div>
+        <div class="col"></div>
+        <div class="col">
+          <img src="img/img250x260.png" alt="">
+          <div class="row">
+            <div class="col pt-3">
+              <p class="pt-3 mb-0 team-name">Masum Rana</p>
+              <p class="team-profesion mb-0">Storage Manager</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+                <a href="https://facebook.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/facebook.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://twitter.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/twitter.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://google.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/googleplus.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://www.pinterest.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/pinterest.png" alt=""> 
+                </a>
+              </div>
+              <div class="col"></div>
+              <div class="col"></div>
+            </div>
+          </div>
+        <div class="col"></div>
+        <div class="col pe-5">
+          <img src="img/img250x260.png" alt="">
+          <div class="row">
+            <div class="col pt-3 ">
+              <p class="pt-3 mb-0 team-name">Stefan Cio</p>
+              <p class="team-profesion mb-0">Mechanic Worker</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+                <a href="https://facebook.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/facebook.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://twitter.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/twitter.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://google.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/googleplus.png" alt=""> 
+                </a>
+              </div>
+              <div class="col">
+                <a href="https://www.pinterest.com" target="_blank" class="social-icon-for-team d-flex justify-content-center align-items-center">
+                  <img src="img/pinterest.png" alt=""> 
+                </a>
+            </div>
+            <div class="col"></div>
+            <div class="col"></div>
+          </div>
+        </div>
+        <div class="col"></div>
+      </div>
+    </div>
+
+
+
+
+// Це call us стрічка
+<div class="container-fluid">
+      <div class="row">
+        <div class="col call-us-bg-img">
+          <div class="row">
+            <div class="col-9">
+              <p class="call-us-title mt-5 text-danger ms-5">Call Us</p>
+              <p class="call-us-text text-danger ms-5">And get a free consultation of problem with your car</p>
+            </div>
+            <div class="col-3">
+              <button type="button" class="btn btn-danger btn-lg call-us-btn">Call Us</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+//footer !!!!
+
+<footer>
+      <div class="container-fluid bg-black">
+        <div class="row pt-5">
+          <div class="col"></div>
+          <div class="col">
+            <div class="row">
+                <div class="col-4">
+                    <img src="img/wheel-logo.png" class="wheel-logo" alt="">
+                </div>
+                <div class="col-8">
+                    <p class="company-name1">CAR<span class="company-name2">RE</span></p>
+                    <p class="company-name3">Biggest car repair service</p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <p class="footer-text pt-5">
+                    Lorem Ipsum is simply dummy text of the had a printing and typesetting industry. 
+                    Ipsum hasbeen the industry's printing and type seting the industry's printing and ting industry. Lorem Ipsum is simply dummy
+                  </p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <a href="https://facebook.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                    <img src="img/facebook.png" alt=""> 
+                  </a>
+                </div>
+                <div class="col">
+                  <a href="https://twitter.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                     <img src="img/twitter.png" alt=""> 
+                  </a>
+                </div>
+                <div class="col">
+                  <a href="https://google.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                   <img src="img/googleplus.png" alt=""> 
+                  </a>
+                </div>
+                <div class="col">
+                  <a href="https://www.pinterest.com" target="_blank" class="social-icon d-flex justify-content-center align-items-center">
+                   <img src="img/pinterest.png" alt=""> 
+                  </a>
+                </div>
+                <div class="col"></div>
+                <div class="col"></div>
+                <div class="col"></div>
+              </div>    
+          </div>
+          <div class="col ps-5">
+            <div class="row">
+              <div class="col">
+                <p class="footer-title">Latest News</p>
+              </div>
+            </div>
+            <div class="row pt-3">
+              <div class="col-3">
+                <img src="img/55x55_icon.png" alt="">
+              </div>
+              <div class="col-9">
+                <p class="lastest-news-text">
+                  Lorem Ipsum is simply dumm
+                  text of the and useble
+                </p>
+                <p class="lastest-news-date">
+                  17 jun, 2015
+                </p>
+              </div>
+            </div>
+            <div class="row pt-3">
+              <div class="col-3">
+                <img src="img/55x55_icon.png" alt="">
+              </div>
+              <div class="col-9">
+                <p class="lastest-news-text">
+                  Lorem Ipsum is simply dumm
+                  text of the and useble
+                </p>
+                <p class="lastest-news-date">
+                  17 jun, 2015
+                </p>
+              </div>
+            </div>
+            <div class="row pt-3">
+              <div class="col-3">
+                <img src="img/55x55_icon.png" alt="">
+              </div>
+              <div class="col-9">
+                <p class="lastest-news-text">
+                  Lorem Ipsum is simply dumm
+                  text of the and useble
+                </p>
+                <p class="lastest-news-date">
+                  17 jun, 2015
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-1 ps-5">
+             <div class="row">
+              <div class="col">
+                <p class="footer-title">Quick links</p>
+              </div>
+            </div>
+            <div class="row pt-2">
+              <div class="col">
+                <a class="footer-quick-link" href="#">About us</a>
+              </div>
+            </div>
+            <div class="row pt-2">
+              <div class="col">
+                <a class="footer-quick-link" href="#">Shortcode</a>
+              </div>
+            </div>
+            <div class="row pt-2">
+              <div class="col">
+                <a class="footer-quick-link" href="#">Contact us</a>
+              </div>
+            </div>
+            <div class="row pt-2">
+              <div class="col">
+                <a class="footer-quick-link" href="#">Portfolio</a>
+              </div>
+            </div>
+            <div class="row pt-2">
+              <div class="col">
+                <a class="footer-quick-link" href="#">Our service</a>
+              </div>
+            </div>
+            <div class="row pt-2">
+              <div class="col">
+                <a class="footer-quick-link" href="#">FAQ</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-3">
+            <div class="row">
+              <div class="col">
+                <p class="footer-title">Quick links</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <img src="img/60x55_image.png" alt="">
+              </div>
+              <div class="col">
+                <img src="img/60x55_image.png" alt="">
+              </div>
+              <div class="col">
+                <img src="img/60x55_image.png" alt="">
+              </div>
+              <div class="col">
+                <img src="img/60x55_image.png" alt="">
+              </div>
+              <div class="col">
+                <img src="img/60x55_image.png" alt="">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <p class="footer-title">Subcribe</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <p class="footer-text">
+                  Subcribe now and get all the latest news instantly
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                <div class="form-floating mb-3">
+                  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                  <label for="floatingInput">Email address</label>
+                  <div class="col-12 d-flex justify-content-center align-items-center pb-3 pt-3">
+                    <button class="btn btn-danger btn-sm" type="submit">Send</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col"></div>
+        </div>
+      </div>
+    </footer>
+
+
+
+//script !!!!
+
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+  <script
+  src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.1.0/velocity.min.js"
+></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+    <script src="../js/script.js"></script> 
